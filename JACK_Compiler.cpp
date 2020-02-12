@@ -5,7 +5,7 @@ This is a compiler for the JACK programming Language
 Usage:
 ./JACK_Compiler <file1.jack> <file2.jack> ...
 Output:
-<file1.anz> <file1.err> <file1.vm>
+<file1.anz> <file1.err> <file1.vm> <file1.tok>
 ..
 
 */
